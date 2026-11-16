@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 👋 안녕하세요.
 
 <!--
 **kang9951/kang9951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: ###원광대학교 소프트웨어공학과에 재학중인 2학년 학생입니다. 오픈소스 SW응용을 배우고있습니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![원대학교 로고](./image/원광대로고.png)
